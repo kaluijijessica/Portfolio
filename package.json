@@ -1,0 +1,1 @@
+{"name":"jessica-kaluiji-portfolio","private":true,"version":"2.0.0","scripts":{"dev":"tailwindcss -i ./input.css -o ./styles.css --watch","build":"tailwindcss -i ./input.css -o ./styles.css --minify"},"devDependencies":{"@tailwindcss/cli":"^4.1.13","tailwindcss":"^4.1.13"}}
